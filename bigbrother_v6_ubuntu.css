@@ -1,4 +1,9 @@
 @font-face {
+	font-family:ostrich;
+	src: url(https://github.com/1nefootstep/yamitl/raw/master/ostrich-regular.ttf);
+	font-weight: normal;
+}
+@font-face {
 	font-family: bigbrother;
 	src: url(https://github.com/1nefootstep/yamitl/raw/master/bigbrother_v6_ubuntu.ttf);
 	font-weight: normal;
