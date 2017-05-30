@@ -1,3 +1,0 @@
-/**
-Do ads work? Hmm...
- */
